@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29905.134
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ReedSolomonCodes", "ReedSolomonCodes\ReedSolomonCodes.csproj", "{232CEE0A-A1CE-474A-8E51-E7188FC305EB}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ReedSolomonCodes.UnitTests", "ReedSolomonCodes.UnitTests\ReedSolomonCodes.UnitTests.csproj", "{DC33E7E6-EB3C-409B-AE3C-25310D52B9CD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{232CEE0A-A1CE-474A-8E51-E7188FC305EB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{232CEE0A-A1CE-474A-8E51-E7188FC305EB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{232CEE0A-A1CE-474A-8E51-E7188FC305EB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{232CEE0A-A1CE-474A-8E51-E7188FC305EB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DC33E7E6-EB3C-409B-AE3C-25310D52B9CD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DC33E7E6-EB3C-409B-AE3C-25310D52B9CD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DC33E7E6-EB3C-409B-AE3C-25310D52B9CD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DC33E7E6-EB3C-409B-AE3C-25310D52B9CD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B8F544D7-2B21-441E-A3F0-88D10AF3F8D9}
+	EndGlobalSection
+EndGlobal

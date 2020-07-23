@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <Authors>Vadim Myalitsin</Authors>
+    <Company />
+    <RepositoryUrl>https://github.com/myalitsin/ReedSolomonCodes</RepositoryUrl>
+    <Description>Reed-Solomon codes implementation. Reed–Solomon codes operate on a block of data treated as a set of finite field elements called symbols. Reed–Solomon codes are able to detect and correct multiple symbol errors.</Description>
+  </PropertyGroup>
+
+</Project>
